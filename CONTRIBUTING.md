@@ -26,7 +26,7 @@ Here's what you need to know.
 3.  Samples are important for illustrating how to actually call into the API.
     Samples should be as visual and reusable as possible.
 
-        Do:
+    Do:
 
     -   Create a UI sample when possible.
 
@@ -36,13 +36,13 @@ Here's what you need to know.
     -   Create code that's easy for other developers to copy/paste into their
         own solutions
 
-        Consider:
+    Consider:
 
     -   Adding UI to allow devs to quickly copy/paste subscription keys, instead
         of updating them in the code or using a config file. The
         FaceAPI-WPF-Samples.sln provides an example.
 
-        Don't:
+    Don't:
 
     -   Leave your subscription key in the source of samples. You do not want
         your key to be abused by others.
