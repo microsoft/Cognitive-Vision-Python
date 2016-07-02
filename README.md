@@ -1,5 +1,5 @@
 # Microsoft Computer Vision API: Jupyter Notebook
-This [Jupyter Notebook](<http://jupyter.org/>) demonstrates how to use Python with the Microsoft Computer Vision API, part of [Cognitive Services](https://www.microsoft.com/cognitive-services).
+This [Jupyter Notebook](<http://jupyter.org/>) demonstrates how to use Python with the Microsoft Computer Vision API, an offering within [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services), formerly known as Project Oxford.
 * [Learn about the Computer Vision API](https://www.microsoft.com/cognitive-services/en-us/computer-vision-api)
 * [Read the documentation](https://www.microsoft.com/cognitive-services/en-us/computer-vision-api/documentation)
 * [Find more SDKs & Samples]()
@@ -19,3 +19,7 @@ All Microsoft Cognitive Services SDKs and samples are licensed with the MIT Lice
 [LICENSE](</LICENSE.md>).
 
 Sample images are licensed separately, please refer to [LICENSE-IMAGE](</LICENSE-IMAGE.md>).
+
+
+## Developer Code of Conduct
+Developers using Cognitive Services, including this sample, are expected to follow the “Developer Code of Conduct for Microsoft Cognitive Services”, found at [http://go.microsoft.com/fwlink/?LinkId=698895](http://go.microsoft.com/fwlink/?LinkId=698895).
