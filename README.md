@@ -23,3 +23,5 @@ Sample images are licensed separately, please refer to [LICENSE-IMAGE](</LICENSE
 
 ## Developer Code of Conduct
 Developers using Cognitive Services, including this sample, are expected to follow the “Developer Code of Conduct for Microsoft Cognitive Services”, found at [http://go.microsoft.com/fwlink/?LinkId=698895](http://go.microsoft.com/fwlink/?LinkId=698895).
+
+Cognitive Computing provides detailed guidance toward building a new class of systems that learn from experience and derive insights to unlock the value of big data. This book helps technologists understand cognitive computing's underlying technologies, from knowledge representation techniques and natural language processing algorithms to dynamic learning approaches based on accumulated evidence, rather than reprogramming
