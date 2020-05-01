@@ -3,7 +3,7 @@
 This [Jupyter Notebook](<http://jupyter.org/>) demonstrates how to use Python with the Azure Computer Vision API, a service within [Azure Cognitive Services](https://www.microsoft.com/cognitive-services).
 
 If you have the Jupyter Notebook application, clone this repository to your machine and open the *.ipynb* notebook files located in the **Jupyter Notebook** folder. If you want to try the notebooks on the web, you can use Binder by following these links:
-* [Computer Vision API example](https://mybinder.org/v2/gh/microsoft/Cognitive-Vision-Python/master?filepath=Jupyter%20Notebook/%20Vision%20API%20Example.ipynb)
+* [Computer Vision API example](https://mybinder.org/v2/gh/microsoft/Cognitive-Vision-Python/master?filepath=Jupyter%20Notebook/Computer%20Vision%20API%20Example.ipynb)
 * [Handwriting OCR API example](https://mybinder.org/v2/gh/microsoft/Cognitive-Vision-Python/master?filepath=Jupyter%20Notebook/Handwriting%20OCR%20API%20Example.ipynb)
 
 ## Next steps
